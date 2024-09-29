@@ -1,0 +1,128 @@
+body {
+    background-color: gainsboro;
+}
+
+
+#main {
+    background-color: rgb(15, 139, 104);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color: white;
+    
+}
+#one {
+    border-radius: 10px;
+    height: 30px;
+    font-size: 13px;
+}
+
+#box1 {
+    width: 350px;
+    height: 250px;
+    background-color: grey;
+   
+    border-radius: 20px;
+    display: inline-block;
+    vertical-align: top;
+    
+    
+}
+
+#box11 {
+height: 80%;
+background-color: white;
+border-top-right-radius: 20px;
+border-top-left-radius: 20px;
+
+display:flex;
+vertical-align: top;
+
+}
+#box2 {
+    width: 350px;
+    height: 250px;
+    background-color: grey;
+   
+    border-radius: 20px;
+    display: inline-block;
+    
+}
+#box22 {
+    height: 80%;
+background-color: white;
+border-top-right-radius: 20px;
+border-top-left-radius: 20px;
+
+display:flex;
+
+}
+
+
+
+#boxp {
+    font-size: 13px;
+    
+    padding-right: 20px;
+}
+#boxb{
+    background-color: red;
+    border-radius: 20px;
+    margin-left: 50px;
+    
+}
+#sub{
+    background-color: rgba(14, 14, 14, 0.736);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color: white;
+    height: 40px;
+}
+#boximg {
+    margin-left: 10px;
+}
+#divp1{
+    margin-top: 10px;
+}
+#boxp1 {
+    color: brown;
+    margin-left: 10px;
+}
+#boxp11 {
+    margin-left: 240px;
+    margin-top: 40px;
+    
+}
+#head2 {
+    height: 40px;
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#d123 {
+    background-color: white;
+
+    height: 450px;
+    width: 220px;
+    display: inline-block;
+    vertical-align: top;
+
+}
+#d1234 {
+    
+    vertical-align: top;
+    background-color: white;
+    height: 500px ;
+    width: 500px;
+    display: inline-block;
+}
+
+#d12345 {
+    background-color: white;
+    width: 600px;
+    height: 600px;
+    display: inline-block;
+}
